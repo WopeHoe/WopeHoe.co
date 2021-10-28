@@ -1,0 +1,9 @@
+Pkg update && pkg upgrade
+Pkg install python2
+Pkg install git
+Pip2 install requests
+Pip2 install mechanize
+Git clone https://github.com/WopeHoe.co/SpamWa
+Cd SpamWa
+Ls
+Python2 SpamWa.py
