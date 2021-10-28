@@ -6,4 +6,4 @@ Pip2 install mechanize
 Git clone https://github.com/WopeHoe.co/SpamWa
 Cd SpamWa
 Ls
-Python2 SpamWa.py
+Bash NewSpamWa.py
